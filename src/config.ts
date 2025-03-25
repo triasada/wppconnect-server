@@ -1,8 +1,8 @@
 import { ServerOptions } from './types/ServerOptions';
 
 export default {
-  secretKey: 'THISISMYSECURETOKEN',
-  host: 'http://localhost',
+  secretKey: 'LASTRIAIPAKEKODELASTRI',
+  host: 'https://wppconnect-server-production-6561.up.railway.app',
   port: '21465',
   deviceName: 'WppConnect',
   poweredBy: 'WPPConnect-Server',
