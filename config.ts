@@ -1,6 +1,6 @@
 {
   /* secret key to genereta access token */
-  secretKey: 'LASTRIAIPAKEKODELASTRI-2025',
+  secretKey: 'LASTRIAIPAKEKODELASTRI',
   host: 'https://wppconnect-server-production-6561.up.railway.app',
   port: '21465',
   // Device name for show on whatsapp device
