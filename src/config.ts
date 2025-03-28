@@ -11,7 +11,7 @@ export default {
   maxListeners: 15,
   customUserDataDir: './userDataDir/',
   webhook: {
-    url: null,
+    url: 'https://efd4-110-138-220-226.ngrok-free.app/api/wa/webhook',
     autoDownload: true,
     uploadS3: false,
     readMessage: true,
