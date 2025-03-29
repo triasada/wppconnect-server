@@ -11,7 +11,7 @@ export default {
   maxListeners: 15,
   customUserDataDir: './userDataDir/',
   webhook: {
-    url: 'https://1619-202-6-224-66.ngrok-free.app',
+    url: 'https://wppconnect-server-production-b0d7.up.railway.app/api/wa/webhook',
     autoDownload: true,
     uploadS3: false,
     readMessage: true,
