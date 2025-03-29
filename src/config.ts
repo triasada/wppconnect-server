@@ -11,7 +11,7 @@ export default {
   maxListeners: 15,
   customUserDataDir: './userDataDir/',
   webhook: {
-    url: 'https://1619-202-6-224-66.ngrok-free.app/api/wa/webhook',
+    url: 'https://www.lastriai.com/api/wa/webhook',
     autoDownload: true,
     uploadS3: false,
     readMessage: true,
